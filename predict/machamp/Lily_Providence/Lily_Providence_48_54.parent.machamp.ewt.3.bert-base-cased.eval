@@ -1,0 +1,6 @@
+{'.run/.sum': 4.2299999999999995,
+ '.run/dependency/las': 0.816,
+ '.run/feats/acc': 0.637,
+ '.run/lemma/acc': 0.9385,
+ '.run/upos/acc': 0.9185,
+ '.run/xpos/acc': 0.92}

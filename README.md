@@ -1,1 +1,2 @@
-# spoken_parsing
+# Child and Parent speech annotated with adaptations of the Universal Dependencies framework
+
